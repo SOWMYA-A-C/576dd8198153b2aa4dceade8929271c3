@@ -67,8 +67,7 @@ function draw(){
 
     //displaying rain drops
     for(var i = 0; i<maxDrops; i++){
-        drops[i].showDrop();
-        drops[i].updateY()
+       
         
     }
 
